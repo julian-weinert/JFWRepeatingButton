@@ -2,7 +2,7 @@
 //  JFWRepeatingButton.m
 //
 //  Created by Julian Weinert on 12/03/15.
-//  Copyright (c) 2015 Julian Weinert Softwareentwicklung. All rights granted.
+//  Licensed under the WTFPL.
 //
 
 #import "JFWRepeatingButton.h"
